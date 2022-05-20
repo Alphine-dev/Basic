@@ -10,3 +10,9 @@ then run
 npm i
 
 to install npm packages
+
+then run
+
+npm run dev
+
+to start the development server
