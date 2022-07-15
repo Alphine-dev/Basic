@@ -1,4 +1,6 @@
+<center>
 # besic-vanilla
+</center>
 basic vanilla html scss and js set up with vite
 
 to start run
