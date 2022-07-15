@@ -1,5 +1,5 @@
 <center>
-# besic-vanilla
+  <h1>besic-vanilla</h1>
 </center>
 basic vanilla html scss and js set up with vite
 
