@@ -5,7 +5,8 @@ Basic is a tool for new web developers who just started web development, when I 
 
 **To get started run this command in the terminal**
 
-    npx degit Project-Alphine/basic-vanilla your-project-name
+    npx degit Project-Alphine/basic-vanilla your-project-name
+
 - this should install a folder with a given name
 - cd into the folder and then run
 > npm install
@@ -13,4 +14,4 @@ Basic is a tool for new web developers who just started web development, when I 
 - then run
 >npm run dev
 
-this will start the development server on **port** 3000
+this will start the development server on **port** 3000.
