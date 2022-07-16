@@ -15,3 +15,8 @@ Basic is a tool for new web developers who just started web development, when I 
 >npm run dev
 
 this will start the development server on **port** 3000.
+
+> **Now to compile from SCSS to CSS run this command.**
+
+    npm run compile
+this is check for changes and will update your css.
