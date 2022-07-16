@@ -1,4 +1,4 @@
-![image](https://github.com/Project-Alphine/basic-vanilla/blob/main/utils/main-img.png)
+<img src="https://github.com/Project-Alphine/basic-vanilla/blob/main/utils/main-img.png" height="40px">
 
 # Basic
 Basic is a tool for new web developer who just started web developing, when I started web development i often get scaired and thought of quitting because how hard it was to set and configure a project from scratch without knowing any thing. I made this tool by using other portable open-source tools which was avelable to me
@@ -13,4 +13,4 @@ Basic is a tool for new web developer who just started web developing, when I st
 - then run
 >npm run dev
 
-this will start the development server on **port** 3000
+this will start the development server on **port** 3000.
