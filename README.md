@@ -21,5 +21,5 @@ this will start the development server on **port** 3000.
     npm run compile
 this is check for changes and will update your css.
 
-#### License [MIT](https://opensource.org/licenses/MIT)
+#### License [MIT](https://opensource.org/licenses/MIT) & [Creative Commons Legal Code](https://creativecommons.org/publicdomain/zero/1.0/)
 Copyright (c) Arsole676
