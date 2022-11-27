@@ -1,7 +1,7 @@
 {
   "name": "basic-tmp",
   "private": true,
-  "version": "0.0.4",
+  "version": "1.4.0",
   "scripts": {
     "compile": "node-sass --watch utils -o css",
     "dev": "vite",
