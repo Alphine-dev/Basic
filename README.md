@@ -18,12 +18,11 @@ Basic is a tool for new web developers who just started web development, when I 
 - then run
 >npm run dev
 
-this will start the development server on **port** 3000.
+this will start the development server on **port** [3000].
 
-> **Now to compile from SCSS to CSS run this command.**
+    note all files ending with [".scss", ".sass", ".less" --- etc]
+    will be compailed automatically by vite.
 
-    npm run compile
-this is check for changes and will update your css.
 
 #### License [MIT](https://opensource.org/licenses/MIT) & [Creative Commons Legal Code](https://creativecommons.org/publicdomain/zero/1.0/)
 Copyright (c) Arsole676
