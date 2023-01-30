@@ -1,18 +1,30 @@
 {
-  "name": "basic-tmp",
-  "private": true,
-  "version": "1.4.0",
+  "name": "basicvanilla",
+  "private": false,
+  "version": "0.5.30",
+  "type": "module",
+  "description": "Create the best, in the simplest possible way you can find, it is a tool for everyone.",
   "scripts": {
-    "compile": "node-sass --watch utils -o css",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
+  "keywords": [
+    "nodejs",
+    "basic",
+    "web-development",
+    "web",
+    "html-css-javascript",
+    "web-development-tools",
+    "vitejs"
+  ],
+  "author": "arsole",
+  "license": "MIT",
   "devDependencies": {
+    "sass": "^1.57.1",
     "vite": "^2.9.9"
   },
   "dependencies": {
-    "degit": "^2.8.4",
-    "node-sass": "^7.0.1"
+    "degit": "^2.8.4"
   }
 }
