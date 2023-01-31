@@ -11,17 +11,17 @@ Basic is a tool for new web developers who just started web development, when I 
 
     npx degit Project-Alphine/basic-vanilla your-project-name
 this should install a folder with a given name, now cd into the folder and then run
-> npm install
+
+	npm install
 
  this will install all the necessary dependencies in the folder, then run the following command
  
->npm run dev
+	npm run dev
 
 this will start the development server on  **port**  [3000].
 
-    note all files ending with [".scss", ".sass", ".less" --- etc]
+>note all files ending with [".scss", ".sass", ".less" --- etc]
     will be compailed automatically by vite.
-
 
 #### License [MIT](https://opensource.org/licenses/MIT) & [Creative Commons Legal Code](https://creativecommons.org/publicdomain/zero/1.0/)
 Copyright (c) Arsole676
