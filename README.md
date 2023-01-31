@@ -1,6 +1,6 @@
 # Basic Vanilla 
 
-<img align="center" src="https://github.com/Project-Alphine/basic-vanilla/blob/main/utils/main-img.png" height="295px">
+<img align="middle" src="https://github.com/Project-Alphine/basic-vanilla/blob/main/utils/main-img.png" height="295px">
 
 
 Create the best, in the simplest possible way you can find, it is a tool for everyone.
@@ -10,15 +10,14 @@ Basic is a tool for new web developers who just started web development, when I 
 **To get started run this command in the terminal**
 
     npx degit Project-Alphine/basic-vanilla your-project-name
-
-- this should install a folder with a given name
-- cd into the folder and then run
+this should install a folder with a given name, now cd into the folder and then run
 > npm install
-- this will install all the necessary dependencies in the folder.
-- then run
+
+ this will install all the necessary dependencies in the folder, then run the following command
+ 
 >npm run dev
 
-this will start the development server on **port** [3000].
+this will start the development server on  **port**  [3000].
 
     note all files ending with [".scss", ".sass", ".less" --- etc]
     will be compailed automatically by vite.
