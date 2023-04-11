@@ -1,7 +1,7 @@
 # Basic Vanilla 
 
 <p align="center">
-  <img align="middle" src="https://github.com/Project-Alphine/basic-vanilla/blob/main/utils/main-img.png" alt="banner">
+  <img align="middle" src="https://github.com/Alphine-dev/Basic/blob/main/utils/template.png" alt="banner">
 </p>
 
 
