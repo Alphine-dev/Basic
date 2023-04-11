@@ -1,6 +1,8 @@
 # Basic Vanilla 
 
-<img align="middle" src="https://github.com/Project-Alphine/basic-vanilla/blob/main/utils/main-img.png" height="295px">
+<p align="center">
+  <img align="middle" src="https://github.com/Project-Alphine/basic-vanilla/blob/main/utils/main-img.png" alt="banner">
+</p>
 
 
 Create the best, in the simplest possible way you can find, it is a tool for everyone.
